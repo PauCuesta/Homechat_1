@@ -1,0 +1,3 @@
+git remote add origen https://github.com/PauCuesta/Homechat_1.git 
+git push-u origin master
+-------------
